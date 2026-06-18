@@ -1,4 +1,4 @@
-"""validates direct imports for submodules"""
+"""testing direct imports for submodules"""
 from alchemy.potions import healing_potion, strength_potion
 
 if __name__ == "__main__":

@@ -1,4 +1,4 @@
-"""structural alias matching interfaces using top-level imports"""
+"""checks  heal alias import using top-level import"""
 
 import alchemy
 

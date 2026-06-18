@@ -1,4 +1,4 @@
-""""""
+"""importing all functions from a subfolder"""
 import alchemy.elements
 
 if __name__ == "__main__":

@@ -1,4 +1,4 @@
-""""""
+"""defining element functions that will be imported or partyially imported"""
 
 
 def create_earth() -> str:
